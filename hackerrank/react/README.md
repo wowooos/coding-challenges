@@ -2,6 +2,8 @@
 
 Challenges focused on React fundamentals and component thinking, and styling — including CSS and Styled Components.
 
+The challenges can be found in [react-exercises/src/exercises](./react-exercises/src/exercises/), each containing its own separate folder.
+
 ## Solutions
 
 | # | Challenge | Concepts | Difficulty | Import on main.tsx | 
