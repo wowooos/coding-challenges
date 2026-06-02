@@ -18,7 +18,7 @@ hackerrank/
 
 | Platform    | React | C  |
 |-------------|-------|----|
-| HackerRank  | 0     | 0  |
+| HackerRank  | 2     | 0  |
 
 ---
 

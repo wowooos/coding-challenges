@@ -26,5 +26,6 @@ dist-ssr
 #----------------------------------------------
 
 public
+# vite css files
 src/App.css
 src/index.css
