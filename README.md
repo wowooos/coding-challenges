@@ -4,6 +4,8 @@ Personal collection of coding challenge solutions from HackerRank.
 
 The purpose is to track concepts practiced — and also *practice* — so it doesn't get lost in the void.
 
+HackerRank profile: [wowooos](https://www.hackerrank.com/profile/wowooosx)
+
 ## Structure
 
 ```
