@@ -4,6 +4,10 @@ Challenges focused on React fundamentals and component thinking, and styling —
 
 The challenges can be found in [react-exercises/src/exercises](./react-exercises/src/exercises/), each containing its own separate folder.
 
+Each challenge folder has:
+- its own `App.tsx`, which you should properly import on [main.tsx](./react-exercises/src/main.tsx) to run
+- a `notes.md` containing details about my solution and a preview GIF of my react implementation
+
 ## Solutions
 
 | # | Challenge | Concepts | Difficulty | Import on main.tsx | 
